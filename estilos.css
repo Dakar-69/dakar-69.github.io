@@ -28,6 +28,7 @@ button{
     font-size: xx-large;
     background: #ff0101ec;
     padding: 0.75em;
+    border-radius: 10%;
 }
 
 #yesBtn{
